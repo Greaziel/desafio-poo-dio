@@ -85,7 +85,7 @@ Linguagens Hibridas: Java, Erlang, Elixir, etc.
 ## ✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO ##
 É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.
 
-## PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS ##
+### PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS ###
 
 #### 🔸 1. Paradigma Imperativo ####
 Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
